@@ -1,0 +1,65 @@
+#message {
+  width: 500px;
+  height: 300px; }
+
+#name {
+  width: 248px; }
+
+#email {
+  width: 248px; }
+
+#submit {
+  background: none;
+  box-shadow: none;
+  outline: none;
+  border-radius: 0px;
+  border: 1px solid #9D9D9D; }
+
+#submit:hover {
+  background-color: #EBEBEB; }
+
+.social-media {
+  margin: 5px;
+  width: 40px;
+  height: 40px; }
+
+input {
+  margin: 5px 0; }
+
+.profile-pic {
+  float: left;
+  margin: 10px; }
+
+.subtitle {
+  text-align: center;
+  color: #9D9D9D;
+  font-style: italic;
+  font-size: small; }
+
+.btn {
+  color: black;
+  text-decoration: none; }
+
+.company {
+  font-weight: bold;
+  padding: 0;
+  margin: 0; }
+
+.job-title {
+  font-style: italic; }
+
+.location {
+  float: right;
+  size: 10%; }
+
+.card-header {
+  background-color: white; }
+
+.card {
+  border-style: none;
+  background-color: white; }
+
+.item {
+  padding: 0 20px; }
+
+/*# sourceMappingURL=style.css.map */
